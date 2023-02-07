@@ -3,7 +3,7 @@ My first react project.
 I have taken the first step in my React journey with a straightforward home page project. This serves as an opportunity to put my recently acquired knowledge to the test. To ensure continued growth and development, I am committing to regularly upload my small-scale projects on a weekly basis.
 
 
-}
+
 Fun Facts about React
 
 This repository showcases some fun facts about the popular JavaScript library, React.
